@@ -11,3 +11,7 @@
 ``` python
 print ("hello world)
 ```
+
+- [ ] Turn on GitHub pages
+- [ ] Outline portfolio
+- [ ] Introduce myself to the world
