@@ -7,4 +7,7 @@
 
 ![Potato](https://images7.alphacoders.com/376/thumb-1920-376174.jpg)
 
-var myVar = "Hello, world!";
+'''
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+'''
